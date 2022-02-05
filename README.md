@@ -1,16 +1,9 @@
-# test02_cobras_escadas
+# Test-02
+## Jogo das Cobras e Escadas: para rodar o jogo entre no arquivo main.dart, assim que abrir clique em Bora jogar, coloque o nome dos jogadores e clique em iniciar. 
 
-A new Flutter project.
+Obs: O jogo esta incompleto. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/79880613/152661346-78cec8c5-4959-4f97-ab1b-696802031d95.mov
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
